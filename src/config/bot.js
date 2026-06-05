@@ -88,7 +88,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#0fa9fc", 
+      primary: "#1b85f6", 
       secondary: "#2F3136", 
 
       // Standard status colors for success/error/warning/info messages.
@@ -136,7 +136,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "Azure",
       // Footer icon URL (null = no icon).
       icon: null,
     },
